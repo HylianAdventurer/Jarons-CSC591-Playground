@@ -1,0 +1,11 @@
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\bin\Debug\netcoreapp3.1\Graph Theory.exe
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\bin\Debug\netcoreapp3.1\Graph Theory.deps.json
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\bin\Debug\netcoreapp3.1\Graph Theory.runtimeconfig.json
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\bin\Debug\netcoreapp3.1\Graph Theory.runtimeconfig.dev.json
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\bin\Debug\netcoreapp3.1\Graph Theory.dll
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\bin\Debug\netcoreapp3.1\Graph Theory.pdb
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\obj\Debug\netcoreapp3.1\Graph Theory.csprojAssemblyReference.cache
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\obj\Debug\netcoreapp3.1\Graph Theory.AssemblyInfoInputs.cache
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\obj\Debug\netcoreapp3.1\Graph Theory.AssemblyInfo.cs
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\obj\Debug\netcoreapp3.1\Graph Theory.dll
+C:\Users\DSU\Documents\Python Projects\Jarons-CSC591-Playground\Ramsey Theory\C#\Graph Theory\Graph Theory\obj\Debug\netcoreapp3.1\Graph Theory.pdb

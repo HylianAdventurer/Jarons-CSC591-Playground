@@ -35,13 +35,34 @@ public class Sudoku extends Graph {
                     addEdge(i, j);
             }
         if(!empty) {
-            while(!kempesColoring((int)Math.pow(size,2)));
+            while(!kempesColoringLargest((int)Math.pow(size,2)));
             Random rng = new Random();
             List<Integer> remaining = new ArrayList<>();
             for(int i = 0; i < size(); i++) remaining.add(i);
             for(int i = 0; i < size()*(1-perRemaining); i++)
                 setColor(remaining.remove(rng.nextInt(remaining.size())),0);
         }
+    }
+
+    public Sudoku(int size, boolean empty, double perRemaining, boolean random) {
+        super((int) Math.pow(size,4),false);
+        for(int i = 0; i < size(); i++)
+            for(int j = i+1; j < size(); j++) {
+                if (i != j && ((int) (i / Math.pow(size, 2)) == (int) (j / Math.pow(size, 2)) || (int) (i % Math.pow(size, 2)) == (int) (j % Math.pow(size, 2)) || section(i) == section(j)))
+                    addEdge(i, j);
+            }
+        if(!empty) {
+            while(random ? !kempesColoringRandom((int)Math.pow(size,2)) : !kempesColoringLargest((int)Math.pow(size,2)));
+            Random rng = new Random();
+            List<Integer> remaining = new ArrayList<>();
+            for(int i = 0; i < size(); i++) remaining.add(i);
+            for(int i = 0; i < size()*(1-perRemaining); i++)
+                setColor(remaining.remove(rng.nextInt(remaining.size())),0);
+        }
+    }
+
+    public boolean kempesColoring() {
+        return kempesColoringLargest((int)Math.sqrt(size()));
     }
 
     public Sudoku clone() {

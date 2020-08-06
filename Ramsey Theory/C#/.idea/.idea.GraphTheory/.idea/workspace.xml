@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01e5aa83-2787-44d7-ba2b-34bd810e7865" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/src/SudokuPlayer.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/src/SudokuPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/out/production/Java/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/out/production/Java/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/out/production/Java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/out/production/Java/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/out/production/Java/Sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/out/production/Java/Sudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/src/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/src/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/src/Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Topic 5 - Graph Coloring/Programs/Java/src/Sudoku.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Graph Theory/Class1.cs" />
+        <option value="$PROJECT_DIR$/Graph Theory/Graph.cs" />
+        <option value="$PROJECT_DIR$/Graph Theory/RamseyTheory.cs" />
+        <option value="$PROJECT_DIR$/Graph Theory/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eQ0N39dcEm9BAt5NBn6ZBFfcgr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Graph Theory" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Graph Theory/Graph Theory.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01e5aa83-2787-44d7-ba2b-34bd810e7865" name="Default Changelist" comment="" />
+      <created>1594238467539</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594238467539</updated>
+      <workItem from="1594238475222" duration="12462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="964" y="180" key="#Graph_Theory" timestamp="1594269157958">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="964" y="180" key="#Graph_Theory/0.0.2560.1040@0.0.2560.1040" timestamp="1594269157958" />
+    <state x="734" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594269012361">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="734" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1594269012361" />
+    <state x="872" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1594269100583">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1040@0.0.2560.1040" timestamp="1594269100583" />
+    <state x="1091" y="207" key="RiderGenerateDialog" timestamp="1594262787393">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1091" y="207" key="RiderGenerateDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1594262787393" />
+    <state x="781" y="163" key="SettingsEditor" timestamp="1594268504141">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="163" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1594268504141" />
+  </component>
+</project>
